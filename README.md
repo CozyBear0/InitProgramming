@@ -16,8 +16,8 @@ Before computers became the modern electric desktops or laptops of today, “com
 
 Storage is a process through which digital data is saved within a data storage device by means of computing technology. Storage is a mechanism that enables a computer to retain data, either temporarily or permanently.
 
-#### what 
+#### what comes before computer or programming ?
 
-mputer. Certainly programming was around before the electronic computer.
+Certainly programming was around before the electronic computer.
 
 Previous computers were people who followed algorithmic instructions. More mechanical examples where Babbage’s mechanical machines, and the Jacquard loom before that.
